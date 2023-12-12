@@ -1,3 +1,13 @@
+# **First Ever Portfolio Project**
+
+![Screenshot 2023-12-12 172237](https://github.com/SeanAdamsDev/PortfolioDraft1/assets/66779812/2db810a5-4f6e-4ea9-bc6f-c97bb431d891)
+
+This was my first draft at attempting a web developer portfolio using React. It is unfinished as some of the SVG features didn't work and I found a portfolio more suited to what I was looking for.
+
+# **Credit**
+
+This project was built following a tutorial by Slobodan at FreeCodeCamp. It can be found [here]([url](https://www.youtube.com/watch?v=bmpI252DmiI) if you'd like to give it a try.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
