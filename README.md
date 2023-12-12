@@ -6,7 +6,7 @@ This was my first draft at attempting a web developer portfolio using React. It 
 
 # **Credit**
 
-This project was built following a tutorial by Slobodan at FreeCodeCamp. It can be found [here]([url](https://www.youtube.com/watch?v=bmpI252DmiI) if you'd like to give it a try.
+This project was built following a tutorial by Slobodan at FreeCodeCamp. It can be found [here][https://www.youtube.com/watch?v=bmpI252DmiI] if you'd like to give it a try.
 
 # Getting Started with Create React App
 
